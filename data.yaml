@@ -1,0 +1,14 @@
+path: C:/Users/belog/mri_tumor_detect
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['Brain-Tumor', 'eye']
+
+roboflow:
+  workspace: brain-mri
+  project: mri-rskcu
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/brain-mri/mri-rskcu/dataset/3
