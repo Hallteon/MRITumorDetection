@@ -6,5 +6,4 @@
 ![photo_2023-12-25_03-42-58](https://github.com/Hallteon/MRITumorDetection/assets/78677607/1987ba71-3b40-40a2-9e44-76d407e9fd09)
 
 
-https://github.com/Hallteon/MRITumorDetection/assets/78677607/2027adb6-0a5b-4452-bd3c-9b90beff6eee
 
